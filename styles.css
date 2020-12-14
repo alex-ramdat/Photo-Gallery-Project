@@ -1,0 +1,26 @@
+img {
+width: 250px;
+height: 250px;
+}
+
+.inputName {
+margin-bottom:50px; 
+margin-top:50px; 
+   width: 20em;  height: 2em;   
+}
+
+button:hover {
+background-color:#ffbf70; 
+    
+}
+
+.add{
+   width: 7em;  height: 2.5em;
+}
+
+body {
+text-align: center;  
+background-color: #fff3bf;
+font-family: 'Roboto Slab', serif;
+}
+
